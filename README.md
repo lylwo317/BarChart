@@ -4,7 +4,8 @@
 
 效果图（录制有点卡顿）：
 
+Gif：
 ![screenRecord](https://raw.githubusercontent.com/lylwo317/BarChart/master/screenRecord/device-2016-04-14-000309_26-124.gif)
 
-YouTuBe
+YouTube:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QfVkiu8kZgs/3.jpg)](https://www.youtube.com/watch?v=QfVkiu8kZgs)
